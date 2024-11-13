@@ -38,5 +38,5 @@ Dengan aplikasi ini, Anda dapat dengan cepat mengecek karakteristik sebuah angka
 Muhammad Ikhya 2210010405
 
 ## Demo
-![Demo GIF](/img/GenapGanjilDemo.gif)
+![Demo GIF](/img/GenapGanjil.gif)
 
